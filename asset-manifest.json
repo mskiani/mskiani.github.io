@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.48f63386.css",
-    "main.js": "/portfolio/static/js/main.92baa96f.js",
+    "main.js": "/portfolio/static/js/main.376f929e.js",
     "static/js/787.a7249224.chunk.js": "/portfolio/static/js/787.a7249224.chunk.js",
     "static/media/googlenetworking.png": "/portfolio/static/media/googlenetworking.a22f0c5c20a994d8c680.png",
     "static/media/ibmCloudNatveapps.png": "/portfolio/static/media/ibmCloudNatveapps.d3da858b839b6571d9d1.png",
@@ -9,7 +9,7 @@
     "static/media/googletechsupport.png": "/portfolio/static/media/googletechsupport.fe5de68969b0c6cbb422.png",
     "static/media/ibmCC.png": "/portfolio/static/media/ibmCC.92e7e11507c7e516bfe9.png",
     "static/media/group70.png": "/portfolio/static/media/group70.0cdefbebd69458224f62.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.c132eeb83a510e5fb0f1.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.463febe7b070e9641407.pdf",
     "static/media/logo.svg": "/portfolio/static/media/logo.7d057f5b8931d56f2212b2c849b9c19a.svg",
     "static/media/kubernetes.svg": "/portfolio/static/media/kubernetes.44d2e074b50592a1e5050b2713afd82c.svg",
     "static/media/react.svg": "/portfolio/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
@@ -35,11 +35,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/material-ui.svg": "/portfolio/static/media/material-ui.682223d7c5a0946fb16d2d72a9650961.svg",
     "main.48f63386.css.map": "/portfolio/static/css/main.48f63386.css.map",
-    "main.92baa96f.js.map": "/portfolio/static/js/main.92baa96f.js.map",
+    "main.376f929e.js.map": "/portfolio/static/js/main.376f929e.js.map",
     "787.a7249224.chunk.js.map": "/portfolio/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f63386.css",
-    "static/js/main.92baa96f.js"
+    "static/js/main.376f929e.js"
   ]
 }
